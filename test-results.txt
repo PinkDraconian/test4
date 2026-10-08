@@ -1,0 +1,2 @@
+PRIVATE_SUBMODULE_CANARY:
+This is secret because it's a private repository!
